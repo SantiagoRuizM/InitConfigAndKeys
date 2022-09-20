@@ -1,6 +1,6 @@
 git config --global user.name "Kichiro"
 git config --global user.email santiago.ruizm40@gmail.com
-git config --global autocrlf true
+git config --global core.autocrlf true
 git config --global alias.ss 'status'
 git config --global alias.sss 'status -s' 
 git config --global alias.ac 'add . && git commit -m' 
