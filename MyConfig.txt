@@ -1,4 +1,4 @@
 git config --global alias.ss "status"
 git config --global alias.sss "status -s"
 git config --global alias.acp "git add . && git commit -m "comment" && git push
-"
+
