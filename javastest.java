@@ -3,11 +3,13 @@ import java.util.Scanner;
 class Main {
 	public static void main(String[] args) {
 	    
-	    Scanner scanner = new Scanner(System.in);
+	    Scanner scanner = new Scanner(System.in); // Scanner to get inputs from users
 	    
-		System.out.println("Hello, World!");
+		System.out.println("Hello, World!"); // print function  
 		System.out.println("Hello, Again!");
 		
+        // the principal operations is + - * / %
+
 		int x = 123; 
 		double x1 = 3.14565;
 		boolean x2 = false;
