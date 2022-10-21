@@ -24,7 +24,7 @@ class Main {
 		int name_b = scanner.nextline();
 		
 		
-		System.out.println("The multiplication between both ages, is: ");
+		System.out.println("The multiplication between both ages, is: " name_a*name_b);
 		
 		
 	}
