@@ -14,6 +14,7 @@ class Main {
 		double x1 = 3.14565;
 		boolean x2 = false;
 		String name = "This is a name";
+        int temp; //this is a empty variable
 		
 		// This is a comment
 		
