@@ -27,7 +27,7 @@ class Main {
 		
 		System.out.println("The multiplication between both ages, is: " name_a*name_b);
 		
-		// variable++ for increment and variable-- for decrease
+		// variable++ for increment and variable-- for decrease.
 
 	}
 }
