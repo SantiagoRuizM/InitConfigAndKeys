@@ -6,7 +6,7 @@ class Main {
 	    Scanner scanner = new Scanner(System.in); // Scanner to get inputs from users
 	    
 		System.out.println("Hello, World!"); // print function  
-		System.out.println("Hello, Again!!");
+		System.out.println("Hello, Again!!!");
 		
         // the principal operations is + - * / %
 
