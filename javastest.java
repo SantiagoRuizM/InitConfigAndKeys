@@ -18,7 +18,7 @@ class Main {
 		
 		// This is a comment
 		
-		System.out.println("Whats your age?: ");
+		System.out.println("¿Whats your age?:   ");
 		int name_a = scanner.nextline();
 		
 		System.out.println("Whats your wife's age?: ");
